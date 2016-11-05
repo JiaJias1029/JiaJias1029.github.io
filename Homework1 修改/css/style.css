@@ -1,0 +1,237 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+p,
+header,
+body,
+footer,
+aside,
+nav,
+section,
+article {
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400i|Raleway:100');
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+    background-image: url(http://unsplash.it/1000?image=668);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.jumbotron a {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.jumbotron h1 {
+    font-weight: 900;
+}
+
+.jumbotron p {
+    font-family: 'Playfair Display', serif;
+    font-style: oblique;
+    font-size: 27px;
+}
+
+.jumbotron p>a {
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+}
+
+.WHAT-IS-IT {
+    text-align: center;
+    height: 450px;
+    display: flex;
+    align-items: center;
+}
+
+.WHAT-IS-IT .container {
+    width: 99%;
+}
+
+.WHAT-IS-IT h4 {
+    font-weight: 700;
+    line-height: 55px;
+    font-size: 20px;
+}
+
+.WHAT-IS-IT p {
+    font-size: 16px;
+    color: #818181;
+}
+
+.WHAT-IS-IT .thumbnail {
+    border-style: none;
+}
+
+.HOW-MOBIRISE-WORKS {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 550px;
+    background-color: #bebebe;
+}
+
+.HOW-MOBIRISE-WORKS .container-fluid {
+    width: 99%;
+}
+
+.HOW-MOBIRISE-WORKS h2 {
+    padding-bottom: 65px;
+    font-weight: 900;
+    font-size: 45px;
+    color: white;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER {
+    height: 600px;
+    background-color: #dedede;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER h2 {
+    font-weight: 900;
+    font-size: 45px;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER p {
+    padding-top: 25px;
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #818181;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER .col-md-7 {
+    padding-left: 80px;
+    text-align: left;
+    width: 27%;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER .col-md-5 {
+    padding-right: 0px;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER a {
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 2.5px;
+}
+
+.PLEASE-SHARE-IT {
+    height: 300px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.PLEASE-SHARE-IT h2 {
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 110px;
+}
+
+.BAEUTIFUL-MOBILE-WEBSITES {
+    height: 600px;
+    background-color: #f4e9e1;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.BAEUTIFUL-MOBILE-WEBSITES h2 {
+    font-weight: 900;
+    font-size: 45px;
+}
+
+.BAEUTIFUL-MOBILE-WEBSITES p {
+    padding-top: 25px;
+    line-height: 22px;
+    font-size: 18px;
+    font-weight: lighter;
+    color: #818181;
+}
+
+.features {
+    margin: 5px;
+    margin-top: 120px;
+    text-align: center;
+}
+
+.features .thumbnail {
+    border-style: none;
+}
+
+.features .container {
+    width: 99%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.WHAT-EXPERTS-SAY-ABOUT-MOBIRISE {
+    background-image: url(http://unsplash.it/1000?image=544);
+    background-size: cover;
+    height: 1000px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.WHAT-EXPERTS-SAY-ABOUT-MOBIRISE .container {
+    width: 70%;
+}
+
+.WHAT-OUR-FANTASTIC-USERS-SAY .container {
+    margin-top: 100px;
+    width: 70%;
+}
+
+.FREE-DOWNLOAD {
+    height: 500px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+}
+
+.NEW-FOLLOW-US {}
+
+.NEW-FOLLOW-US {
+    background-image: url(http://unsplash.it/1000?image=668);
+    background-size: cover;
+    height: 300px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    height: 500px;
+    background-color: #2e2e2e;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    color: white;
+}
