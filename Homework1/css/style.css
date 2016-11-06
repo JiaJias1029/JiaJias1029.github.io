@@ -1,0 +1,74 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+p,
+header,
+body,
+footer,
+aside,
+nav,
+section,
+article {
+    margin: 0;
+    padding: 0;
+}
+
+.jumbotron {
+    background-image: url(http://unsplash.it/1000?image=1081);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    color: black;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.jumbotron a {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+content .WHAT-IS-IT {
+    text-align: center;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    background-color: #dedede
+}
+
+.HOW-MOBIRISE-WORKS {
+    text-align: center;
+    height: 500px;
+    background-color: darkgrey;
+    padding-top: 60px;
+}
+
+.DROP-DEAD-EASY-WEBSITE-MAKER {
+    height: 500px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    background-color: #dedede;
+}
+
+.PLEASE-SHARE-IT {
+    height: 250px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.BAEUTIFUL-MOBILE-WEBSITES {
+    height: 500px;
+    background-color: #f4e9e1;
+    text-align: right;
+    display: flex;
+    align-items: center;
+}
+
+.features {}
