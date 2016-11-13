@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Gentium+Basic');
+header {
+    text-align: center;
+    background-color: burlywood;
+    background-image: url(http://unsplash.it/1000/700?image=1067);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #d99c28;
+    padding: 145px;
+}
+
+header h1 {
+    font-size: 60px;
+}
+
+header p {
+    font-size: 10px;
+    letter-spacing: 10px;
+}
+
+article h1 {
+    font-family: "Gentium Basic";
+    font-weight: 500;
+    text-align: center;
+}
+
+article p {
+    font-family: "Gentium Basic";
+    font-size: 16p;
+    letter-spacing: normal;
+    line-height: 20px;
+}
+
+.auther {
+    text-align: center;
+}
+
+.avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.thumbnail {
+    width: 32.7%;
+    float: left;
+    padding: 20px 20px;
+    border: 1px dotted #d99c28;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail p {}
+
+.container {
+    width: 90%;
+    margin: 30px auto;
+}
