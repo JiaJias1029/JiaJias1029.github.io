@@ -1,0 +1,30 @@
+/*box model 使用 border box*/
+
+* {
+    box-sizing: border-box;
+}
+
+
+/*排版用的標籤 RESET margin與padding*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+body,
+div,
+header,
+footer,
+content,
+container,
+section,
+after,
+img,
+row,
+navbar {
+    margin: 0;
+    padding: 0;
+}
