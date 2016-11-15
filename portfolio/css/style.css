@@ -264,8 +264,9 @@ footer .container-fluid {
 }
 
 footer .container {
+    overflow: auto;
     color: #3f5248;
-    height: 35px;
+    margin-bottom: 10px;
 }
 
 footer p {
